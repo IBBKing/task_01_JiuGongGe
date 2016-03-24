@@ -1,0 +1,21 @@
+#main{
+    width:450px;
+    min-height:450px;
+    margin:100px auto;
+}
+
+#main div{
+    width:150px;
+    height:150px;
+    float: left;
+}
+
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
